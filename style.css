@@ -1,0 +1,33 @@
+html, body {
+    height: 100%;
+}
+
+/*
+--------------------------------------------------
+Typography
+--------------------------------------------------
+*/
+
+.navbar-text {
+    font-family: 'Kanit', sans-serif;
+    color: white;
+}
+
+h2 {
+    font-family: 'Exo 2', sans-serif;
+}
+
+
+/*
+--------------------------------------------------
+Hero
+--------------------------------------------------
+*/
+.hero {
+    background-image: url("img/workout.png");
+    background-color: #cccccc;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    color: white;
+   }
