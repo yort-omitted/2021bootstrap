@@ -1,6 +1,9 @@
 html, body {
     height: 100%;
 }
+body{
+    padding-top: 60px;
+}
 
 /*
 --------------------------------------------------
@@ -17,6 +20,9 @@ h2 {
     font-family: 'Exo 2', sans-serif;
 }
 
+h3 {
+    font-stretch: expanded;
+}
 
 /*
 --------------------------------------------------
@@ -30,4 +36,21 @@ Hero
     background-position: center;
     background-size: cover;
     color: white;
+    height: 400px;
    }
+
+/*
+--------------------------------------------------
+Clearfix
+--------------------------------------------------
+*/
+
+.clearfix {
+    margin-left: 15px;
+}
+
+/*
+   box-shadow: inset 0 11px 8px -10px #343434;
+   box-shadow: inset 0 0 0 0,inset 0 -11px 8px -10px #343434;
+   image:   box-shadow: 0 0 20px 5px black;
+*/
