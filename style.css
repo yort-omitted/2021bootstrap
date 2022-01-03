@@ -7,7 +7,7 @@ body{
 
 /*
 --------------------------------------------------
-Typography
+Navbar
 --------------------------------------------------
 */
 
@@ -22,6 +22,13 @@ h2 {
 
 h3 {
     font-stretch: expanded;
+}
+
+.logo-image{
+    width: 45px;
+    height: 45px;
+    overflow: hidden;
+    margin-top: -6px;
 }
 
 /*
